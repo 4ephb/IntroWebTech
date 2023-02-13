@@ -1,6 +1,6 @@
 # Знакомство с веб-технологиями
 
-### [Урок 1. Веб-технологии: вчера, сегодня, завтра](https://github.com/4ephb/IntroWebTech/HW01)
+### [Урок 1. Веб-технологии: вчера, сегодня, завтра](https://github.com/4ephb/IntroWebTech/tree/main/HW01)
 
     Задача: на основе сайта yandex.ru:
     1. Определите, на каком протоколе работает сайт.
@@ -8,22 +8,22 @@
     3. Внесите не менее 10 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало.
     4. Создайте прототип низкой детализации (дополнительное задание, если на семинаре дошли до задания №8).
 
-### [Урок 2. HTML, CSS](https://github.com/4ephb/IntroWebTech/HW02)
+### [Урок 2. HTML, CSS](https://github.com/4ephb/IntroWebTech/tree/main/HW02)
 
     1. Создать страницу с рассказом о чём угодно. Например, о себе или о любимом коте.
        Страница должна содержать заголовки, абзацы, картинки, списки и ссылки.
 
-### [Урок 3. Основы JavaScript](https://github.com/4ephb/IntroWebTech/HW03)
+### [Урок 3. Основы JavaScript](https://github.com/4ephb/IntroWebTech/tree/main/HW03)
 
     1. Создать страницу, которая спрашивает имя у пользователя и выводит его с помощью функции.
 
-### [Урок 4. Основы бэкенда: PHP и MySQL](https://github.com/4ephb/IntroWebTech/HW04)
+### [Урок 4. Основы бэкенда: PHP и MySQL](https://github.com/4ephb/IntroWebTech/tree/main/HW04)
 
     1. Сформировать массив с данными для блока «Опыт работы». Вывести данные массива в HTML-шаблоне.
     2. Создать БД, состоящую из одной таблицы (информация об одногруппниках) с четырьмя
        полями (добавить поле «Адрес»): id, name, age, address.
 
-### [Урок 5. JSON и XML](https://github.com/4ephb/IntroWebTech/HW05)
+### [Урок 5. JSON и XML](https://github.com/4ephb/IntroWebTech/tree/main/HW05)
 
     1. Проверить XML на Well formed
     2. **Проверить JSON на Well formed
